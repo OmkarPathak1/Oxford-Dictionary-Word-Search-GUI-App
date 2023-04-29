@@ -19,3 +19,30 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Title: Oxford Dictionary Word Search GUI App
+
+Description:
+
+This is a graphical user interface (GUI) application built using Python and Tkinter that provides access to the entire Oxford Dictionary. The app allows users to search for words that contain specific letters provided by the user. The app also includes a checkbox that enables searching for words that contain a specific sequence of letters, regardless of their position within the word.
+
+Features:
+
+- Access to the entire Oxford Dictionary
+- Search for words containing specific letters
+- Option to search for words containing a specific sequence of letters
+- User-friendly GUI with a clean and colorful design
+- Display of search results in a scrollable list
+- Integration of Return key to trigger the search button
+
+Usage:
+
+To use the app, simply run the `app.py` file in Python. Enter the letters or sequence of letters you wish to search for in the input box, and click the "Search" button or press the Return key. The app will display a list of words that match your search criteria. 
+
+Contributing:
+
+Contributions to the project are welcome and can be made by forking the repository and creating a pull request with your changes.
+
+License:
+
+This project is licensed under the MIT License, which means that anyone can use, modify, and distribute the code for both commercial and non-commercial purposes, as long as the original license is included.
